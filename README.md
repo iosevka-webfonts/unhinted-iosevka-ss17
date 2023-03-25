@@ -1,4 +1,4 @@
-# Unhinted Iosevka SS17 WebFont 21.1.0
+# Unhinted Iosevka SS17 WebFont 21.1.1
 
 ## How to use
 
